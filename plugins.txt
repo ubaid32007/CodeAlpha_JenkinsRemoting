@@ -1,0 +1,17 @@
+git
+workflow-aggregator
+pipeline-stage-view
+blueocean
+ssh-slaves
+credentials
+credentials-binding
+antisamy-markup-formatter
+build-timeout
+timestamper
+ws-cleanup
+gradle
+matrix-auth
+pam-auth
+ldap
+email-ext
+mailer
